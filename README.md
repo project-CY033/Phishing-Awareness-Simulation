@@ -1,4 +1,4 @@
-# PhishGuard - Phishing Awareness Simulation Platform
+# Phishing Awareness Simulation Platform
 
 PhishGuard is a comprehensive phishing awareness simulation platform designed to help organizations strengthen their security posture through effective employee training. This platform enables security teams to run simulated phishing campaigns, track user interactions, and provide educational resources to improve security awareness.
 
@@ -27,10 +27,7 @@ PhishGuard is a comprehensive phishing awareness simulation platform designed to
    cd phishguard
    ```
 
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
+ 
 
 3. Configure environment variables:
    Create a `.env` file in the root directory with the following variables:
@@ -49,14 +46,7 @@ PhishGuard is a comprehensive phishing awareness simulation platform designed to
    SMTP_FROM=phishguard@example.com
    ```
 
-4. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
-5. Access the application:
-   Open your browser and navigate to `http://localhost:5000`
-
+ 
 ## Default Login Credentials
 
 - **Username**: admin
